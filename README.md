@@ -11,7 +11,7 @@ Cake is a simple security scanning library.
 
 ## Installation
 ```
-pip install .
+pip install git+https://github.com/speedrunblaze/cake-lib.git
 ```
 
 ## Usage
